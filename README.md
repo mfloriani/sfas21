@@ -19,6 +19,6 @@ Gamepad:
 * X - run
 * A - action
 
-Gameplay video:
+## Gameplay video:
 
 [![Gameplay video](https://img.itch.zone/aW1hZ2UvODkyOTI0LzUwNDIzOTQucG5n/original/WLGENZ.png)](https://youtu.be/FyQYntlk6EA)
