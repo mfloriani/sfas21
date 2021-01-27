@@ -19,8 +19,6 @@ Gamepad:
 * X - run
 * A - action
 
-[![Gameplay video](https://img.itch.zone/aW1hZ2UvODkyOTI0LzUwNDIzOTQucG5n/original/WLGENZ.png)](https://youtu.be/FyQYntlk6EA)
+Gameplay video:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=FyQYntlk6EA
-" target="_blank"><img src="http://img.youtube.com/vi/FyQYntlk6EA/0.jpg" 
-alt="Gameplay video" width="800" height="600" border="10" /></a>
+[![Gameplay video](https://img.itch.zone/aW1hZ2UvODkyOTI0LzUwNDIzOTQucG5n/original/WLGENZ.png)](https://youtu.be/FyQYntlk6EA)
