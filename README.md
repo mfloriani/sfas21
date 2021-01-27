@@ -1,23 +1,21 @@
-# README #
+# Search for a Star 2021 Competition #
 
-This is the starting point for all Search for a Star 2021 projects.
+This is a simple game developed for the [SFAS 2021](https://itch.io/jam/sfas-games-programming-2021).  
+It is about a choosing between a stealth and military approach.  
+If you chose the former, you would play with a Spy, the latter with a Soldier.  
 
-### What is this repository for? ###
+## Controls
 
-* The Search for a Star 2021 competition. 
-* Initial Version to fork from.
+Keyboard:
+* W, S, A, D - move
+* Up, Down, Left, Right - control camera
+* Shift - run
+* Space - shoot (soldier only)
+* Enter - action
 
-### How do I get set up? ###
+Gamepad:
+* Left stick - move
+* Right stick - control camera
+* X - run
+* A - action
 
-* Download and instal Unity 2020.1.3f1
-* Open the root directory in Unity
-
-### Contribution guidelines ###
-
-* You should not start over, you should adapt the existing code to show that you can read, understand and extend an existing code base. 
-* You can and should add new files but you should also keep and use 90% of the existing codebase.
-* Try to follow the style which has already been demonstrated in the codebase.
-
-### Who do I talk to? ###
-
-* Contact Grads in Games with any questions
