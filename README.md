@@ -19,3 +19,4 @@ Gamepad:
 * X - run
 * A - action
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/bUeF0oQgJco/0.jpg)](https://youtu.be/bUeF0oQgJco)
